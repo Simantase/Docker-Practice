@@ -50,7 +50,7 @@
 			</plugin>
 		</plugins>
 			<!-- Docker Configuration-->
-        <finalName>spring-boot-docker</finalName>
+        <finalName>docker-jenkins-integration-sample</finalName>
 	</build>
 
 </project>
